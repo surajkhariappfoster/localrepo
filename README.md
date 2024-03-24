@@ -1,2 +1,1 @@
-#This a readme file for localrepo
-#this a main branch
+#This is readme file of MAIN branch
